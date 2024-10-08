@@ -61,9 +61,4 @@ This project provides a Python implementation for solving the **Chinese Postman 
 - `solve_cpp()`: 
     - The main function that orchestrates the steps to solve the Chinese Postman Problem.
 
-## How to Run
-1. Ensure you have Python installed on your machine.
-2. Clone the repository or download the script.
-3. Run the script and provide the required input values for vertices and edges.
-4. Follow the prompts to see the total cost and the route for the Eulerian tour.
 
