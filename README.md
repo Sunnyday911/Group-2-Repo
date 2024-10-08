@@ -67,4 +67,3 @@ This project provides a Python implementation for solving the **Chinese Postman 
 3. Run the script and provide the required input values for vertices and edges.
 4. Follow the prompts to see the total cost and the route for the Eulerian tour.
 
-## Example Input
